@@ -5,6 +5,7 @@ Project ini merupakan automation testing untuk aplikasi Flip menggunakan **Webdr
 ## Tools yang Digunakan
 - WebdriverIO
 - Appium
+- Appium Inspector
 - Node.js
 - Android Emulator
 
